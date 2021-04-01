@@ -1,0 +1,1 @@
+# obsidan-mkdocs-template
