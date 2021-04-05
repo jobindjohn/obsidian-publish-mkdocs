@@ -1,4 +1,5 @@
-# Publish Obsidan Notes with MkDocs (template)
+# Publish Obsidian Notes with MkDocs (template)
+
 
 ## Alternatives
 

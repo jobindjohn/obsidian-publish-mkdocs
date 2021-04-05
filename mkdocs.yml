@@ -1,0 +1,28 @@
+site_name: obsidian-mkdocs template
+
+theme:
+    name: 'material'
+    palette:
+        scheme: default
+        primary: white
+        accent: teal
+
+# Extensions
+markdown_extensions:
+  - footnotes
+  # - attr_list
+  # - pymdownx.arithmatex
+  # - pymdownx.superfences
+  # - pymdownx.details
+  # - pymdownx.magiclink
+  # - pymdownx.tasklist:
+  #     custom_checkbox: true
+#  - pymdownx.emoji:
+#      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  # - admonition
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - roamlinks 
