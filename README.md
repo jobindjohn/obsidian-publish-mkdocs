@@ -3,6 +3,14 @@
 Would you like to make some of your [Obsidian](https://obsidian.md/) notes public?
 
 This template gives you an easy way to publish your Obsidian notes using Github pages.
+
+With this template, you get these out-of-the-box:
+
+- an awesome website based on Material theme, complete with a search bar (Checkout this template published [here](https://jobindj.github.io/obsidian-mkdocs/))
+- get the Obsidian/Roam style `[[wikilinks]]` from your vault in your published notes
+- Toggle between light and dark mode
+
+
 ## How to get started?
 
 1. Create a new github repository using [this template](https://github.com/jobindj/obsidian-mkdocs/generate)
@@ -26,4 +34,4 @@ By default, the sections and pages will follow the folder structure within `/doc
 
 - [kmaasrud/oboe](https://github.com/kmaasrud/oboe): tool to convert an Obsidian vault into a static directory of HTML files.
 - [Jackiexiao/foam-mkdocs-template](https://github.com/Jackiexiao/foam-mkdocs-template): template for Obsidian/Foam using mkdocs/mkdocs-material/mkdocs-roamlinks-plugin
-- [foambubble/foam-template](https://github.com/foambubble/foam-template):Foam workpace template
+- [foambubble/foam-template](https://github.com/foambubble/foam-template): Foam workpace template
