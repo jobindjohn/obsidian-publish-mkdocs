@@ -21,6 +21,8 @@ With this template, you get these **out-of-the-box**:
     - Easiest way to do this would be using drag and drop within Obsidian
 4. Commit and push the changes. Github actions will publish your notes using [MkDocs](https://www.mkdocs.org/), with the [Material theme](https://squidfunk.github.io/mkdocs-material/). 
 
+**Not working for you?** Open an [issue](https://github.com/jobindj/obsidian-mkdocs/issues/new/choose) and let me know what went wrong.
+
 ## Configuring your website
 
 ### How do I arrange notes as sections and pages?
