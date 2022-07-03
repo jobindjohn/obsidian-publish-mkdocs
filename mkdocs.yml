@@ -26,7 +26,8 @@ theme:
 markdown_extensions:
   - footnotes
   # - attr_list
-  # - pymdownx.arithmatex
+  - pymdownx.arithmatex:
+      generic: true
   # - pymdownx.superfences
   # - pymdownx.details
   # - pymdownx.magiclink
@@ -40,8 +41,11 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks
+  - roamlinks 
   - mermaid2
 
 extra_javascript:
-    - https://unpkg.com/mermaid/dist/mermaid.min.js 
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/mermaid/dist/mermaid.min.js 
