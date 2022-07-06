@@ -1,3 +1,3 @@
 # Note 1
 
-Example: link to [[Mermaid Diagrams]] under `Topic 2`
+Example: link to [[Mermaid Diagrams]] under `Features`
