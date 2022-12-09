@@ -13,7 +13,6 @@ With this template, you get these **out-of-the-box**:
 - get the Obsidian/Roam style `[[wikilinks]]` from your vault in your published notes
 - Toggle between light and dark mode
 
-
 ## Quick start
 
 1. Create a **new github repository using this template**. Click the green button at the top or use [this link](https://github.com/jobindjohn/obsidian-publish-mkdocs/generate). 
