@@ -39,6 +39,11 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.superfences:
+    custom_fences:
+      - name: mermaid
+        class: mermaid
+        format: !!python/name:pymdownx.superfences.fence_code_format
 
   - toc:
       permalink: true
@@ -46,7 +51,7 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks 
-  - mermaid2
+
 
 extra_javascript:
   - javascripts/mathjax.js
