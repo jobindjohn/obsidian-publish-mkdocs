@@ -4,7 +4,7 @@
 
 Would you like to take _some_ of your notes in [Obsidian](https://obsidian.md/) and make it public?
 
-This template gives you an easy (and automated) way to publish your Obsidian notes on your Github pages.
+This template gives you an easy (and automated) way to publish your Obsidian notes (or blog!) on your Github pages.
 
 With this template, you get these **out-of-the-box**:
 
@@ -12,6 +12,7 @@ With this template, you get these **out-of-the-box**:
 ![](2021-11-22-22-49-26.png)
 - get the Obsidian/Roam style `[[wikilinks]]` from your vault in your published notes
 - Toggle between light and dark mode
+- Blog folder
 
 ## Quick start
 

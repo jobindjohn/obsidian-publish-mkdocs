@@ -20,5 +20,6 @@ jobs:
           path: .cache
       - run: pip install mkdocs-material
       - run: pip install mkdocs-roamlinks-plugin
+      - run: pip install mkdocs-rss-plugin
       # - run: pip install mkdocs-mermaid2-plugin
       - run: mkdocs gh-deploy --force
