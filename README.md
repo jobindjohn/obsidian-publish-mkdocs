@@ -46,7 +46,6 @@ By default, the sections and pages will follow the folder structure within `/doc
 
 - [binyamin/eleventy-garden: :seedling: A starter site for building a mind garden with eleventy](https://github.com/binyamin/eleventy-garden)
 - [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow): plugin for publishing with flowershow direct from your obsidian vault.
-- [kmaasrud/oboe](https://github.com/kmaasrud/oboe): tool to convert an Obsidian vault into a static directory of HTML files.
 - [Jackiexiao/foam-mkdocs-template](https://github.com/Jackiexiao/foam-mkdocs-template): template for Obsidian/Foam using mkdocs/mkdocs-material/mkdocs-roamlinks-plugin
 - [foambubble/foam-template](https://github.com/foambubble/foam-template): Foam workpace template
 - [ObsidianPublisher/obsidian-mkdocs-publisher-template](https://github.com/ObsidianPublisher/obsidian-mkdocs-publisher-template): Obsidian Mkdocs Publisher, a free obsidian publish alternative throught Mkdocs
